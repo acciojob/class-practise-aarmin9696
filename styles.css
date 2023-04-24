@@ -3,3 +3,7 @@
     color: #00f;
     background-color: #eee;
 }
+.selector:nth-child(even){
+    color: rgb(0, 0, 255);
+    background-color: rgb(238, 238, 238);
+}
